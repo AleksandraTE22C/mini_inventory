@@ -1,15 +1,13 @@
 import java.util.Random;
 
 public class Weapon extends Item{
-    private int minDmg;
+    private int minDmg = 2;
     private int maxDmg;
     private Random rand = new Random();
 
-    public Weapon(int minDmg , int maxDmg , String name , float weight){
-        this.minDmg = minDmg;
+    public Weapon(String name, int maxDmg){
         this.maxDmg = maxDmg;
         this.name = name;
-        this.weight = weight;
     }
 
     public void attack(){

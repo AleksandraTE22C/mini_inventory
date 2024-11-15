@@ -4,18 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0beaba0-feac-4642-8962-84d1cb39595f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mini_inventory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Armor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Character.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Consumable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inventory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Weapon.java" afterDir="false" />
+    <list default="true" id="a0beaba0-feac-4642-8962-84d1cb39595f" name="Changes" comment="Weapon klassen klar">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Character.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Consumable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Consumable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weapon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Weapon.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,11 +65,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730884912644</updated>
-      <workItem from="1730884913896" duration="4691000" />
+      <workItem from="1730884913896" duration="7939000" />
     </task>
+    <task id="LOCAL−00001" summary="Weapon klassen klar">
+      <option name="closed" value="true" />
+      <created>1731685392743</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1731685392743</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Weapon klassen klar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Weapon klassen klar" />
   </component>
 </project>
