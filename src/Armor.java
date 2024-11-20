@@ -1,7 +1,7 @@
 public class Armor extends Item{
-    private float protection;
+    int protection;
 
-    public void Armor(float protection, String name){
+    public Armor(String name, int protection){
         this.protection = protection;
         this.name = name;
 
